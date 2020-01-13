@@ -21,4 +21,3 @@ end
 
 t2 = Test2.new()
 t2.method2('XXX')
-
